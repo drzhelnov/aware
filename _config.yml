@@ -8,8 +8,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   research waste in health and biomedical sciences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://researchwaste.info" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: drzhelnov
-github_username:  pvzhelnov
+twitter_username:   drzhelnov
+github_username:    pvzhelnov
+linkedin_username:  drzhelnov
+instagram_username: the_trash_scientist
 
 # Layout defaults
 defaults:
