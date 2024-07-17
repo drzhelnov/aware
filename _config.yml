@@ -29,7 +29,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-readme-index
-  - jekyll-optional-front-matter
   - jekyll-target-blank
 
 # Readme Index settings
@@ -37,11 +36,6 @@ readme_index:
   enabled:          false
   remove_originals: true
   with_frontmatter: false
-
-# Optional Front Matter settings
-optional_front_matter:
-  enabled:          true
-  remove_originals: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
