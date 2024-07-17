@@ -10,9 +10,9 @@
 
 **🎓 This is a PhD in progress,**
 
-* **undertaken** by Pavel Zhelnov, MD,
+* **undertaken** by [Pavel Zhelnov, MD](https://drzhelnov.github.io/),
 * **hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/member/andrea-tricco/),
 * **supervised** by [Dr. Andrea Tricco](https://sporevidencealliance.ca/member/andrea-tricco/), and
 * **funded** by the IHPME and from Dr. Tricco’s grants.
 
-**Contact Pavel:** [@pvzhelnov](https://github.com/pvzhelnov)
+**Send Pavel an email:** [p.zhelnov@mail.utoronto.ca](mailto:p.zhelnov@mail.utoronto.ca)
