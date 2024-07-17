@@ -8,8 +8,8 @@ AWARE is a scoping review of Avoidable WAste in REsearch and a tool in developme
 
 🎓 **This is a PhD in progress,**
 
-* **Undertaken** by [Pavel Zhelnov, MD](https://drzhelnov.github.io/),
-* **Hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/member/andrea-tricco/),
+* **Undertaken** by [Pavel Zhelnov, MD](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/),
+* **Hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/about/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/about/about-sporea/),
 * **Supervised** by [Dr. Andrea Tricco](https://sporevidencealliance.ca/member/andrea-tricco/), and
 * **Funded** by the IHPME and from Dr. Tricco’s grants.
 
