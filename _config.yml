@@ -63,3 +63,5 @@ exclude:
 #   - vendor/ruby/
 include:
   - LICENSE_MINIMA
+
+google_analytics: G-KLYY520MTK
