@@ -1,32 +1,65 @@
+<h2 class="post-list-heading" id="feedback-form">Feedback form</h2>
+{% capture intro %}{% include feedback_form_intro.md %}{% endcapture %}
+{{ intro | markdownify }}
+<div id="socials-landing">
+    {%- include social.html -%}
+</div>
+{% capture apologies %}{% include feedback_form_apologies.md %}{% endcapture %}
+{{ apologies | markdownify }}
 <form data-netlify="true">
     <div class="form-group row">
-        <label for="text" class="col-4 col-form-label">Name</label> 
-        <div class="col-8">
+    <label for="feedback-contact" class="col-4 col-form-label">Contact info</label> 
+    <div class="col-8">
         <div class="input-group">
-            <div class="input-group-prepend">
+        <div class="input-group-prepend">
             <div class="input-group-text">
-                <i class="fa fa-address-card"></i>
+            <i class="fa fa-envelope"></i>
             </div>
-            </div> 
-            <input id="text" name="text" type="text" class="form-control">
-        </div>
-        </div>
-    </div>
-    <div class="form-group row">
-        <label for="text1" class="col-4 col-form-label">Email</label> 
-        <div class="col-8">
-        <input id="text1" name="text1" type="text" class="form-control">
+        </div> 
+        <input id="feedback-contact" name="feedback-contact" placeholder="Optional" type="text" class="form-control">
         </div>
     </div>
+    </div>
     <div class="form-group row">
-        <label for="textarea" class="col-4 col-form-label">Comments</label> 
-        <div class="col-8">
-        <textarea id="textarea" name="textarea" cols="40" rows="5" class="form-control"></textarea>
+    <label for="feedback-name" class="col-4 col-form-label">Preferred name</label> 
+    <div class="col-8">
+        <div class="input-group">
+        <div class="input-group-prepend">
+            <div class="input-group-text">
+            <i class="fa fa-address-card"></i>
+            </div>
+        </div> 
+        <input id="feedback-name" name="feedback-name" type="text" class="form-control">
         </div>
+    </div>
+    </div>
+    <div class="form-group row">
+    <label for="feedback-comments" class="col-4 col-form-label">Comments</label> 
+    <div class="col-8">
+        <textarea id="feedback-comments" name="feedback-comments" cols="40" rows="5" class="form-control"></textarea>
+    </div>
+    </div>
+    <div class="form-group row">
+    <label class="col-4">I wanted to leave feedback but could not do it</label> 
+    <div class="col-8">
+        <div class="custom-control custom-radio custom-control-inline">
+        <input name="feedback-radio" id="feedback-radio_0" type="radio" class="custom-control-input" value="no-preferred-channel" aria-describedby="feedback-radioHelpBlock"> 
+        <label for="feedback-radio_0" class="custom-control-label">My preferred way is not on the list</label>
+        </div>
+        <div class="custom-control custom-radio custom-control-inline">
+        <input name="feedback-radio" id="feedback-radio_1" type="radio" class="custom-control-input" value="bad-website" aria-describedby="feedback-radioHelpBlock"> 
+        <label for="feedback-radio_1" class="custom-control-label">I did not find what I was looking for</label>
+        </div>
+        <div class="custom-control custom-radio custom-control-inline">
+        <input name="feedback-radio" id="feedback-radio_2" type="radio" class="custom-control-input" value="declined-feedback" aria-describedby="feedback-radioHelpBlock"> 
+        <label for="feedback-radio_2" class="custom-control-label">Don't want to leave feedback</label>
+        </div> 
+        <span id="feedback-radioHelpBlock" class="form-text text-muted">Please leave details in the comments above if you can.</span>
+    </div>
     </div> 
     <div class="form-group row">
-        <div class="offset-4 col-8">
+    <div class="offset-4 col-8">
         <button name="submit" type="submit" class="btn btn-primary">Submit</button>
-        </div>
+    </div>
     </div>
 </form>
