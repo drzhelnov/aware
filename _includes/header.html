@@ -4,8 +4,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <div>
-      {% capture headline %}{% include headline.md %}{% endcapture %}{{ headline | markdownify }}
+    <div class="site-title-ref">
+      {% capture ref %}{% include site_title_ref.md %}{% endcapture %}{{ ref | markdownify }}
     </div>
 
     {%- if page_paths -%}

@@ -4,6 +4,13 @@
 
 @import "minima";
 
-a {
+.site-title-ref {
+    min-width: 15em;
+    display: inline-block;
+}
 
+@include media-query($on-cell) {
+  .site-title-ref {
+    min-width: 100%;
+  }
 }
