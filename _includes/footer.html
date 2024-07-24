@@ -19,6 +19,19 @@
           <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
         </ul>
+        <ul class="contact-list">
+        {%- if site.latest_doc_url -%}
+          <li><a href="{{ site.latest_doc_url| absolute_url | uri_escape }}"><span class="username">Latest paper</span></a></li>
+        {%- endif -%}
+        {%- if page_paths -%}
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+            <li><a href="{{ my_page.url | relative_url }}"><span class="username">{{ my_page.title | escape }}</span></a></li>
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+        </ul>
       </div>
 
       <div class="footer-col footer-col-2" id="socials">
