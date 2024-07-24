@@ -1,4 +1,4 @@
-<h2 class="post-list-heading" id="feedback-form">Feedback form</h2>
+<h2 class="post-list-heading">Feedback form</h2>
 {% capture intro %}{% include feedback_form_intro.md %}{% endcapture %}
 {{ intro | markdownify }}
 <div id="socials-landing">
@@ -6,7 +6,7 @@
 </div>
 {% capture apologies %}{% include feedback_form_apologies.md %}{% endcapture %}
 {{ apologies | markdownify }}
-<form data-netlify="true">
+<form data-netlify="true" id="feedback-form">
     <div class="form-group row">
     <label for="feedback-contact" class="col-4 col-form-label">Contact info</label> 
     <div class="col-8">
