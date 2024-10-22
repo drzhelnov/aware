@@ -27,4 +27,3 @@ Below you will find a transcript of this episode (AI-generated of course! Again,
 
 ---
 {% include 85_percent_e1_en_transcript.md %}
----
