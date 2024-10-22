@@ -1,8 +1,8 @@
-<h2 class="post-list-heading">Feedback form</h2>
+<!--<h2 class="post-list-heading">Feedback form</h2>-->
 {% capture intro %}{% include feedback_form_intro.md %}{% endcapture %}
 {{ intro | markdownify }}
 <div id="socials-landing">
-    {%- include social.html -%}
+    <!--{%- include social.html -%}-->
 </div>
 {% capture apologies %}{% include feedback_form_apologies.md %}{% endcapture %}
 {{ apologies | markdownify }}
@@ -29,7 +29,7 @@
             <i class="fa fa-address-card"></i>
             </div>
         </div> 
-        <input id="feedback-name" name="feedback-name" type="text" class="form-control">
+        <input id="feedback-name" name="feedback-name" placeholder="Optional" type="text" class="form-control">
         </div>
     </div>
     </div>

@@ -1,5 +1,6 @@
 title: Research Waste AWARE
 author: "Pavel Zhelnov"
+author_pronouns: "he/him"
 email: p.zhelnov@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
   AWARE is a scoping review of Avoidable WAste in REsearch and
@@ -14,7 +15,8 @@ github_username:    drzhelnov
 github_repo:        aware
 linkedin_username:  drzhelnov
 #instagram_username: the_trash_scientist
-latest_doc_url:     https://docs.google.com/document/d/1kHBxe7XmJcfp8T32QxAjJqqPs_LRu4EIM4cpa_GWT7E/edit
+comment_landing_url: https://docs.google.com/document/d/1kHBxe7XmJcfp8T32QxAjJqqPs_LRu4EIM4cpa_GWT7E/edit
+latest_doc_url:      https://docs.google.com/document/d/1kHBxe7XmJcfp8T32QxAjJqqPs_LRu4EIM4cpa_GWT7E/edit
 
 # Layout defaults
 defaults:
