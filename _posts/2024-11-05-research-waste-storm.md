@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Research waste by STORM"
+title:  "Research waste—article by STORM AI"
 ---
 
-Check https://storm.genie.stanford.edu/article/250657 for more details\
+Check <https://storm.genie.stanford.edu/article/250657> for more details\
 Stanford University Open Virtual Assistant Lab\
 The generated report can make mistakes.\
 Please consider checking important information.\
@@ -11,7 +11,7 @@ The generated content does not represent the developer's viewpoint.
 
 [Show as PDF](/assets/pdf/research_waste_storm_2024-11-05.pdf)
 
-summary
+Summary
 =======
 
 Research waste refers to the inefficiencies and misallocation of resources within the scientific research process, particularly in biomedical and ecological fields. Estimates indicate that up to 85% of research funding may be wasted due to various factors, including inadequate study design, poor question selection, and ineffective reporting practices.[1](https://guides.hsict.library.utoronto.ca/c.php?g=707166&p=5037232)[2](https://pubmed.ncbi.nlm.nih.gov/38798014/)
