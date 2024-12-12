@@ -39,16 +39,16 @@ This is the conclusion that was reached after [investigating the aftermath](http
 
 The results of this investigation were published in the reputable _BMJ_ journal back in 2021. Almost four years after its publication, it has not been widely publicized. As of December 12, 2024, the publication’s [Altmetric profile](https://www.altmetric.com/details/99262997) shows that it was only ever picked up by two news outlets, one blog, and 55 social media posts. It has also received only 15 to 16 academic citations (based on [Google Scholar](https://scholar.google.com/scholar?cites=13369986014045436949) or [OpenAlex](https://openalex.org/works?filter=cites%3Aw3129053163) statistics, respectively).
 
-- so tolerance differs across research communities
-- meta thing: that chinese clin trials article missed by recent scr on rw because the search strategy failed to account for that;
+## Case 3: The False Promise of Meta-research
 
-## Case 3: The False Promise of Evidence Synthesis
+Meta-research “is about ensuring that we have the evidence we need to realise the full potential of research” – [Research on Research Institute](https://researchonresearch.org/about/). One of the methods of meta-research is evidence synthesis, that is, “the way that academics bring together knowledge from across multiple studies into a whole, to present the state of current under-standing about a given area.” ([Handbook of Meta-Research](https://doi.org/10.4337/9781839105722)).
 
-“Several methods for assessing research waste in reviews with a systematic search: a scoping review” (2024) https://doi.org/10.7717/peerj.18466
+Going back to the study about statin trials, let us see how it is reflected in the meta-research about this topic. Naturally, most of the 15 or 16 academic articles that cited it can be categorized as meta-research studies, and as evidence syntheses. However, a recently published [review of the methods](https://doi.org/10.7717/peerj.18466) for assessing such cases is not among them. Under “such cases” I refer, of course, to research that is known to be controversial but is not, anyhow, broadly condemned as “alleged misconduct” or a “questionable research practice.” These gray zone cases are sometimes referred to as [research waste](https://doi.org/10.1111/jebm.12616).
 
-The reason why missed was because the scoping review’s strategy only included the word redundancy as part of a phrase “redundant research” whereas in this particular paper the word combination was slightly different, namely “redundant clinical trials”, so due to the strict keyword-based nature of top-tier academic database search systems this was missed
+Upon closer examination, the reason why the statin trials investigation was missed was because the review’s search strategy only included the word _redundancy_ as part of a phrase “redundant research;” whereas, the statin trials paper used slightly different wording, namely “redundant clinical trials.” The consultation and approval of the search strategy by an information specialist has failed to safeguard the study against this unforeseen variation, as did the strict keyword-based nature of top-tier academic database search systems such as PubMed. Who would have the courage to immediately categorize this evidence synthesis (excellent in many other aspects!) as research waste?
 
-the search strategy was “consulted with and approved by an information specialist”; so is this rw or not?
+Overall, things look quite dismal in evidence synthesis. For example, a recent finding was that [78% of systematic reviews do not have a reproducible search strategy](https://doi.org/10.1016/j.jclinepi.2023.111229), considered to be a key feature of this kind of a meta-research study. Another estimate contends that [97% of systematic reviews either do not have adequate methods or are clinically useless](https://doi.org/10.1111/1468-0009.12210). In broader meta-research, there is [not enough unanimity](https://doi.org/10.1097/XEB.0000000000000201) even on the preferred terminology to denote the field, let alone funding and governance issues. Apparently, the field does not fully deliver its promise.
+
 <!---probably won't talk about this because this is going too niche for a wide audience
 - (?) maybe to throw in some words about 'the false promise of meta-research', eg the covid nma lnma case or scandal or irreproducibility of sys revs - but this may be too niche for an article for broad audience--->
 <!---lacking evidence to support these claims
@@ -60,6 +60,8 @@ the search strategy was “consulted with and approved by an information special
 <!---pretty niche too but will maybe include somewhere
 - in the context of my own phd thesis research where we want to build a tool to measure research waste, this begins to emerge as the more and more wicked to me
 --->
+
+## 
 
 more thoughts after reading kolstoe & pugh thoroughly, skimming through some works that cited it, and some works referenced therein, and then after also skimming through abramo and coara
 
