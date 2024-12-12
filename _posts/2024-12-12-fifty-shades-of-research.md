@@ -19,37 +19,30 @@ research. Please submit to the instructor by December 12th, 2024 at the latest f
 feedback before submitting to the publication venue. 
 --->
 
-Pavel Zhelnov, [12/11/2024 7:04 PM]
-Fifty shades of research
-- kolstoe & pugh
-- that alzheimers case: crucified and retracted
+> What counts as bad health research? There is no single answer. This article presents three distinct cases of controversial research and introduces the reader into scholarly debate about research evaluation.
 
-"A specific amyloid-β protein assembly in the brain impairs memory" (2006) https://doi.org/10.1038/nature04533
+## Case 1: Landmark Paper Retracted over Images Suspicious of Manipulation
 
-PubPeer thread with a discussion and comments from a senior author, Karen Hsiao Ashe: https://pubpeer.com/publications/8FF7E6996524B73ACB4A9EF5C0AACF#
+In June 2024, a scientific paper published 18 years ago was retracted. This paper is now considered one of the [most influential papers ever retracted](https://retractionwatch.com/the-retraction-watch-leaderboard/top-10-most-highly-cited-retracted-papers/).
 
-In May 2024, Dr. Ashe mentioned that “[she] and the other authors of Lesné et al, Nature, 2006 (with the exception of Dr. Sylvain Lesné) have decided to retract the paper. As the corresponding author I take ultimate responsibility for this decision.”
+“A specific amyloid-β protein assembly in the brain impairs memory,” read the [original title](https://doi.org/10.1038/nature04533). After [concerns were raised](https://pubpeer.com/publications/8FF7E6996524B73ACB4A9EF5C0AACF#) about the trustworthiness of the figures on which this conclusion was based, a two-year online discussion and an [investigation](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease) ensued. In consequence, one of the paper’s senior authors declared their decision to [retract](https://doi.org/10.1038/s41586-024-07691-8) the paper.
 
-Science wrote about this: https://www.science.org/content/article/researchers-plan-retract-landmark-alzheimers-paper-containing-doctored-images
+This case was highly publicized by _[Science](https://www.science.org/content/article/researchers-plan-retract-landmark-alzheimers-paper-containing-doctored-images)_ and news media outlets. The [Retraction Watch](https://retractionwatch.com/the-retraction-watch-leaderboard/top-10-most-highly-cited-retracted-papers/) reports, as of December 12, 2024, that the paper itself was cited over 2,300 times, including more than 10 citations after the retraction note was published. One of the reasons for this study’s popularity is its landmark role in Alzheimer’s disease research, with its retraction [casting a shadow](https://en.wikipedia.org/wiki/Sylvain_Lesn%C3%A9#Impact_on_Alzheimer's_research) on the consequent research and translation efforts.
 
-Retraction note, published 24 June 2024: https://doi.org/10.1038/s41586-024-07691-8
+## Case 2: Five Hundred Excessive Deaths in Patients Not Offered an Effective Drug
 
-"According to Retraction Watch, this makes it the most highly cited paper ever retracted.[10]" Wikipedia, https://en.wikipedia.org/wiki/Karen_Ashe
+“Of more than 2000 redundant clinical trials on statins in patients with coronary artery disease… an extra 3000 MACEs, including nearly 600 deaths, were experienced by participants not treated with statins in these trials.”
 
-As of 2024-12-12, this is still among top 10 most retracted, with Citing Articles before retraction	2356, Citing Articles after retraction 11, Total cites (journals indexed by Web of Science) 2367: https://retractionwatch.com/the-retraction-watch-leaderboard/top-10-most-highly-cited-retracted-papers/
+This is the conclusion that was reached after [investigating the aftermath](https://doi.org/10.1136/bmj.n48 ) of a clinical cardiology practice guideline introduced in 2007 in China. This guideline included a strong recommendation, based on high-quality evidence, for administering a statin medication to patients with two common heart diseases, stable angina pectoris and acute coronary syndrome. It was then logical to assume, the investigators argue, that any new trials conducted after that point (plus a one-year lag to account for the guideline adoption) were to be considered redundant. The investigators focused on randomized clinical trials where, by design, a random sample of eligible heart disease patients would receive the recommended drug (statin), and the rest of the patients would be offered a placebo pill or no treatment.
 
-- that chinese trials case: not crucified
+2045 redundant trials like that were identified in academic literature. In the no-active drug group, 3470 extra major adverse cardiac events (MACEs) were reported, including 559 deaths, 973 patients with new or recurrent myocardial infarction, 161 patients with stroke, 83 patients requiring revascularization, 398 patients with heart failure, 1197 patients with recurrent or deteriorated angina pectoris, and 99 unspecified MACEs. The science behind randomized trials dictates that should these people be offered a statin, then these outcomes could have been prevented.
 
-"Effect of redundant clinical trials from mainland China evaluating statins in patients with coronary artery disease: cross sectional study" (2021) https://doi.org/10.1136/bmj.n48 
-
-Altmetrics details, as of 2024-12-12 - not very widely publicized (Mentioned by 2 news outlets, 1 blog, 55 X (twitter) users): https://www.altmetric.com/details/99262997
-
-The one citing blog is LSE Impact Blog, a notable blog on research impact: https://blogs.lse.ac.uk/impactofsocialsciences/2021/02/04/against-research-waste-how-the-evidence-based-research-paradigm-promotes-more-ethical-and-innovative-research/
-
-Also as of 2024-12-12, only 15 citations on Google Scholar and 16 citations on OpenAlex
+The results of this investigation were published in the reputable _BMJ_ journal back in 2021. Almost four years after its publication, it has not been widely publicized. As of December 12, 2024, the publication’s [Altmetric profile](https://www.altmetric.com/details/99262997) shows that it was only ever picked up by two news outlets, one blog, and 55 social media posts. It has also received only 15 to 16 academic citations (based on [Google Scholar](https://scholar.google.com/scholar?cites=13369986014045436949) or [OpenAlex](https://openalex.org/works?filter=cites%3Aw3129053163) statistics, respectively).
 
 - so tolerance differs across research communities
 - meta thing: that chinese clin trials article missed by recent scr on rw because the search strategy failed to account for that;
+
+## Case 3: The False Promise of Evidence Synthesis
 
 “Several methods for assessing research waste in reviews with a systematic search: a scoping review” (2024) https://doi.org/10.7717/peerj.18466
 
@@ -68,7 +61,6 @@ the search strategy was “consulted with and approved by an information special
 - in the context of my own phd thesis research where we want to build a tool to measure research waste, this begins to emerge as the more and more wicked to me
 --->
 
-Pavel Zhelnov, [12/12/2024 6:55 AM]
 more thoughts after reading kolstoe & pugh thoroughly, skimming through some works that cited it, and some works referenced therein, and then after also skimming through abramo and coara
 
 Simon E. Kolstoe & Jonathan Pugh (2023). "The trinity of good research: Distinguishing between research integrity, ethics, and governance" https://doi.org/10.1080/08989621.2023.2239712
