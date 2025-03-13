@@ -6,3 +6,11 @@ _site
 vendor
 Gemfile.lock
 .wakatime-project
+.bib
+.bibpaths
+.Rmd
+*.deb
+*.docx
+csl/
+bibmerge.py
+!/assets/bibmerge.py
