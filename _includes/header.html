@@ -1,12 +1,19 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
+    <div style="display: flex">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <div class="site-title-ref">
       <!--{% capture ref %}{% include site_title_ref.md %}{% endcapture %}{{ ref | markdownify }}-->
     </div>
+    </div>
+    <nav class="nav">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
+    </nav>
 
     {%- if page_paths and true == false -%}
       <nav class="site-nav">

@@ -1,13 +1,11 @@
-title: Research Waste AWARE
+title: ResearchWaste.info
 author: "Pavel Zhelnov"
 author_pronouns: "he/him"
 email: p.zhelnov@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  AWARE is a scoping review of Avoidable WAste in REsearch and
-  a tool in development to inform academics, clinicians, patient
-  and public partners, policy-makers, and funders on how to reduce
-  research waste in health and biomedical sciences. This is a doctoral thesis
-  in progress at the University of Toronto and the SPOR Evidence Alliance.
+  AWARE is a doctoral research project in progress at the University
+  of Toronto and the SPOR Evidence Alliance focused on reducing
+  research waste in health and biomedical sciences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://researchwaste.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:   drzhelnov
@@ -17,6 +15,7 @@ linkedin_username:  drzhelnov
 #instagram_username: the_trash_scientist
 comment_landing_url: https://docs.google.com/document/d/1kHBxe7XmJcfp8T32QxAjJqqPs_LRu4EIM4cpa_GWT7E/edit
 latest_doc_url:      https://docs.google.com/document/d/1kHBxe7XmJcfp8T32QxAjJqqPs_LRu4EIM4cpa_GWT7E/edit
+cta_button: "<a href=\"https://docs.google.com/document/d/1kHBxe7XmJcfp8T32QxAjJqqPs_LRu4EIM4cpa_GWT7E/edit\" class=\"cta-button\" target=\"_blank\" rel=\"noopener noreferrer\">Comment on Latest Paper</a>"
 
 # Layout defaults
 defaults:
