@@ -13,11 +13,11 @@ research. Please submit to the instructor by December 12th, 2024 at the latest f
 feedback before submitting to the publication venue. 
 --->
 
-> A version of this article was originally published in the University of Toronto’s [Centre for Global Health Bulletin, March 2025 Newsletter](https://mailchi.mp/913d9cc555c0/centre-for-global-health-march-2025-newsletter). All changes are tracked in the [version history](https://github.com/drzhelnov/aware/commits/main/_posts/2024-12-12-fifty-shades-of-research.md).
+> A version of this article was originally published in the University of Toronto’s [Centre for Global Health Bulletin, March 2025 Newsletter](https://mailchi.mp/913d9cc555c0/centre-for-global-health-march-2025-newsletter). All changes are tracked in the [version history on GitHub](https://github.com/drzhelnov/aware/commits/main/_posts/2024-12-12-fifty-shades-of-research.md).
 
 ## Summary
 
-What counts as _bad_ health research? There is no single answer. This article presents (not fifty but) three distinct cases of controversial biomedical, clinical, and “meta” research and introduces a broad audience to the topic of research waste. Research waste refers to the inefficient, ineffective, or unintentionally harmful use of resources (financial, human, time, participant burden, excess use of animals) at any level of the health research ecosystem.
+What counts as _bad_ health research? There is no single answer. This article presents (not fifty but) three distinct cases of controversial biomedical, clinical, and “meta” research and introduces a broad audience to the topic of research waste. Research waste refers to the inefficient, ineffective, or unintentionally harmful use of resources (e.g., financial, human, time, participant burden, or excess use of animals) at any level of the health research ecosystem.
 
 ## Case 1: Landmark paper retracted over images suspicious of manipulation
 
@@ -57,15 +57,15 @@ This article presented three distinct cases of health research that can, ostensi
 
 The difference, however, seems to be primarily in the degree of community consensus toward the label (misconduct vs. waste vs. “challenges”), not necessarily the impacts of the discussed research. For example, the largely unnoticed Case 2 provides evidence for well-documented, and drastic, negative health outcomes whereas, for the widely condemned and retracted Case 1, the direct health impacts are more elusive.
 
-A broader scholarly debate questions whether a research work should be evaluated based on its “quality” in and of itself or based on its “impacts” on the world. A notable discussion happened around a 2022 initiative called the [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/). The coalition calls for wider adoption of peer review in research assessment, in opposition to publication-based metrics. This initiative received [strong pushback](https://doi.org/10.1093/reseval/rvae021) from the president of the International Society for Scientometrics and Informetrics (ISSI) [@abramo_forced_2024].
+A broader scholarly debate questions whether a research work should be evaluated based on its “quality” in and of itself or based on its “impacts” on the world. A notable discussion happened around a 2022 initiative called the [Coalition for Advancing Research Assessment (CoARA)](https://coara.eu/). The coalition calls for wider adoption of peer review in research assessment, in opposition to publication-based metrics. This initiative received [strong pushback](https://doi.org/10.1093/reseval/rvae021) from the president of the International Society for Scientometrics and Infometrics (ISSI) [@abramo_forced_2024].
 
 It is clear that no unanimous position exists in the academic community as to what exactly constitutes bad health research. Complete clarity about what we mean by research waste and how we measure it is urgently needed to develop evidence-based strategies for easing its insidious pressure on health care decision-makers, providers, and patients globally.
 
-Our project called [Avoidable WAste in health REsearch (AWARE)](https://researchwaste.info/about/) aims to look more into this.
+Our project, called [Avoidable WAste in health REsearch (AWARE)](https://researchwaste.info/about/), aims to look more into this.
 
 ## Acknowledgments
 
-I would like to thank Erica Di Ruggiero for her helpful feedback on an earlier version of this article, the Scientometrics Centre at the HSE University for their informative news feed, my supervisor Andrea Tricco for the opportunities to study this topic, and the many other colleagues who shared their insights about research waste over the past 2 years.
+I would like to thank Erica Di Ruggiero and Michelle Christian for their helpful feedback on an earlier version of this article, the Scientometrics Centre at the HSE University for their informative news feed, my supervisor Andrea Tricco for the opportunities to study this topic, and the many other colleagues who shared their insights about research waste over the past 2 years.
 
 <!---probably won't talk about this because this is too theoretical for a wide audience
 - kolstoe & pugh make a commendable attempt to set normative boundaries between integrity, ethics, and governance, although they themselves acknowledge that there also are other reshapings of these norms (eg printeger report 2016 or allea's ecoc for ri 2023 that do not seem to differentiate between ethics and integrity)
