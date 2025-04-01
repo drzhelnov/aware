@@ -1,4 +1,4 @@
-## Public comments
+## Public feedback
 
 We are looking to hear every voice. Please comment publicly if possible.
 
