@@ -5,6 +5,7 @@ _site
 .jekyll-metadata
 vendor
 Gemfile.lock
+.bundle
 .wakatime-project
 .bib
 .bibpaths
