@@ -14,3 +14,4 @@ Gemfile.lock
 csl/
 bibmerge.py
 !/assets/bibmerge.py
+.DS_Store
