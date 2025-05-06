@@ -21,9 +21,9 @@ My oral presentation is included in the Global Health section scheduled for Wedn
 
 Unfortunately, this year no virtual broadcast nor recording are planned. However, feel free to download my slide deck (licensed under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)):
 
-[Slide Deck - PowerPoint](/assets/pptx/Pavel_Zhelnov_2025-05-07_1130-1145_IHPME_HSB_Room_734_submitted_2025-05-05.pptx)
+[Slide Deck - PowerPoint](/assets/pptx/Pavel_Zhelnov_2025-05-07_1130-1145_IHPME_HSB_Room_734_v6.pptx)
 
-[Slide Deck - PDF](/assets/pdf/Pavel_Zhelnov_2025-05-07_1130-1145_IHPME_HSB_Room_734_submitted_2025-05-05.pdf)
+[Slide Deck - PDF](/assets/pdf/Pavel_Zhelnov_2025-05-07_1130-1145_IHPME_HSB_Room_734_v6.pdf)
 
 ## Call for feedback
 
