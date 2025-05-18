@@ -1,7 +1,7 @@
 ---
 layout: post
 hidden: false
-title:  "Ethical and Philosophical Critique of Research Waste—DeepSeek-R1"
+title:  "Ethical and philosophical critique of research waste—DeepSeek-R1"
 author: Pavel Zhelnov
 ---
 
