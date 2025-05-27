@@ -2,6 +2,7 @@
 layout: post
 hidden: false
 title:  "AWARE at IHPME Research and Impact Day 2025"
+permalink: /2025/05/05/ihpme-research-and-impact-day
 author: Pavel Zhelnov
 ---
 
