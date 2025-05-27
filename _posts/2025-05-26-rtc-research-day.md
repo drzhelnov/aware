@@ -14,7 +14,7 @@ I am pleased to let everyone know that I am presenting the research work accompl
 
 **Topic: ResearchWaste.info: Raising awareness of avoidable waste in health research**
 
-My poster presentation is included in the Global Health section scheduled for Tuesday May 27th at 12:40–2:00pm EDT (UTC-4). Location: Toronto, Ontario, Canada.
+My presentation is included in the Clinical Research (Dry Bench) Stream poster session scheduled for Tuesday May 27th at 12:40–2:00pm EDT (UTC-4). Location: Toronto, Ontario, Canada.
 
 📍 [Li Ka Shing (LKS) Knowledge Institute](https://maps.app.goo.gl/Y9naD13LHbHSsk6M6), 2nd Floor, B&M Syron Exhibit Hall, LKS 240 & LKS 241; 209 Victoria St
 
