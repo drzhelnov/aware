@@ -28,11 +28,11 @@ This is a local event with the Knowledge Translation Program and, as such, may n
 
 ## Other supplementary data
 
-There are a number of other locations where findings were shared (as of {{ "2025-08-28" | date: "%B %-d, %Y" }}):
+There are a number of other locations where findings were shared (as of {{ "2025-08-26" | date: "%B %-d, %Y" }}):
 
 * **Resource:** News on ResearchWaste.info
 
-  **Last Updated:** {{ "2025-08-28" | date: "%B %-d, %Y" }}
+  **Last Updated:** {{ "2025-08-26" | date: "%B %-d, %Y" }}
 
   **Link:** <https://researchwaste.info>
 
