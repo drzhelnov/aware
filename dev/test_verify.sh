@@ -6,7 +6,7 @@ HASH=$(python dev/merge_ris_rnd.py dev/example/true_irrelevant_rnd_sample_n-5.ri
 RELEVANT=$(bun dev/generate-map.ts "dev/$HASH/merged_10.ris" "dev/$HASH/true_relevant_rnd_sample_n-5.ris.dumped.ris" "dev/$HASH/true_irrelevant_rnd_sample_n-5.ris.dumped.ris" | tail -n1)
 
 # Test with curl
-curl -X POST http://localhost:8888/.netlify/functions/verify \
+curl -X POST "$URL" \
   -H "Content-Type: application/json" \
   -d '{
     "ris_file_hash": "'$HASH'",

@@ -18,6 +18,7 @@
   "scripts": {
     "netlify": "netlify dev",
     "jekyll": "bundle exec jekyll serve",
-    "test": "bash dev/test_verify.sh"
+    "test": "URL=http://localhost:8888/.netlify/functions/verify bash dev/test_verify.sh",
+    "prod": "URL=https://researchwaste.info/.netlify/functions/verify bash dev/test_verify.sh"
   }
 }
