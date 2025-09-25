@@ -1,5 +1,6 @@
 /untracked
 _site
+node_modules
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
@@ -16,3 +17,6 @@ csl/
 bibmerge.py
 !/assets/bibmerge.py
 .DS_Store
+
+# Local Netlify folder
+.netlify

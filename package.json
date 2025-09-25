@@ -1,0 +1,22 @@
+{
+  "name": "aware",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "volta": {
+    "node": "22.20.0"
+  },
+  "dependencies": {
+    "@netlify/functions": "^4.2.6",
+    "netlify-cli": "^23.7.3"
+  },
+  "scripts": {
+    "netlify": "netlify dev",
+    "jekyll": "bundle exec jekyll serve"
+  }
+}
