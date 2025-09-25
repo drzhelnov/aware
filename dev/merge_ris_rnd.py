@@ -11,6 +11,15 @@ def main():
 
     random.shuffle(records)
 
+    def inject_hashes(records):
+        """add hash directly to the RIS record"""
+        for r in records:
+            # 'M1': 'note' (from rispy import TAG_KEY_MAPPING)
+            r["note"] = hashlib.sha256(str(r).encode("utf-8")).hexdigest()
+        return records
+    
+    records = inject_hashes(records)
+
     # create a canonical dump of merged records for hashing
     with tempfile.NamedTemporaryFile("w+", delete=False) as tmp:
         rispy.dump(records, tmp)
@@ -29,6 +38,7 @@ def main():
     for f in sys.argv[1:]:
         with open(f) as h:
             recs = rispy.load(h)
+            recs = inject_hashes(recs)
         base = os.path.basename(f)
         dump_path = os.path.join(outdir, base + ".dumped.ris")
         with open(dump_path, "w") as o:

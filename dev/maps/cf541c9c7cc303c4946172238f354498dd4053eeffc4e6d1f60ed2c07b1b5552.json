@@ -1,0 +1,28 @@
+{
+  "relevant": [
+    "b4ba4fa28ee46b145ef42198438c0b512e4eccaae5b0c74252a34df8515d7bf8",
+    "41637f52d4bf9bb9806581e6fa8516a001361e896fc8fb71e2b0b5d82f2e964c",
+    "4c07aae6c8c6bab5ba4a1ac1e568a0d3fbb81462822f92073ad72550710ee207",
+    "e6f762c4bedf7e57cb100e89a424966866cb19d5d10ed26e310232be91390f41",
+    "e08a61d7b7ce1338ced516b8946ea39b457357523afff3ee066b53fd1d22326e"
+  ],
+  "irrelevant": [
+    "ea01f0ed3f6a0ff8b39271a7d2e5cd365189389bd6c91416c9c47a574e4e3b6e",
+    "6423fb45fa5fe83fc45ba67c3503361b8672230fb0bdfbfd43adbf44a94f8ed7",
+    "c8bd58eb0b041070c82b8bc36f66973bb769545f7461c489c6675f4cabdf70a9",
+    "7f931cd28f4d9c74e44c4888effff9c5768bb17ef6bc395478b7fcdaba4b8cab",
+    "e4826cf3daf2e9e3846b6b663dc940ff6ca5ba09a5321354f0a672de14f995b3"
+  ],
+  "metadata": {
+    "full_ris_hash": "cf541c9c7cc303c4946172238f354498dd4053eeffc4e6d1f60ed2c07b1b5552",
+    "full_records": 10,
+    "relevant_count": 5,
+    "irrelevant_count": 5,
+    "created_at": "2025-09-25T05:53:27.731Z",
+    "source_files": {
+      "full": "dev/cf541c9c7cc303c4946172238f354498dd4053eeffc4e6d1f60ed2c07b1b5552/merged_10.ris",
+      "relevant": "dev/cf541c9c7cc303c4946172238f354498dd4053eeffc4e6d1f60ed2c07b1b5552/true_relevant_rnd_sample_n-5.ris.dumped.ris",
+      "irrelevant": "dev/cf541c9c7cc303c4946172238f354498dd4053eeffc4e6d1f60ed2c07b1b5552/true_irrelevant_rnd_sample_n-5.ris.dumped.ris"
+    }
+  }
+}
