@@ -55,6 +55,8 @@ readme_index:
 exclude:
   - untracked/
   - LICENSE
+  - dev/
+  - netlify/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

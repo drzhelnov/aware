@@ -17,6 +17,7 @@
   },
   "scripts": {
     "netlify": "netlify dev",
-    "jekyll": "bundle exec jekyll serve"
+    "jekyll": "bundle exec jekyll serve",
+    "test": "bash dev/test_verify.sh"
   }
 }
