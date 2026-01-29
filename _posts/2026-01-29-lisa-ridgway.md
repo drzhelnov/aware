@@ -16,7 +16,7 @@ author: Pavel Zhelnov
 
 Lisa had been involved in patient-oriented research since 2018. She was a lawyer by training and profession, a Research Ambassador for [Canada’s Strategy for Patient-Oriented Research](https://cihr-irsc.gc.ca/e/41204.html) (SPOR) [BC Support Unit](https://healthresearchbc.ca/bc-support-unit/about-us/), and a peer-reviewed author.
 
-Here is a snippet from Lisa’s profile on [ResearchGate](https://www.researchgate.net/profile/Lisa-Ridgway):
+Here is a snippet from Lisa’s profile on [ResearchGate](https://web.archive.org/web/20260129182423/https://www.researchgate.net/profile/Lisa-Ridgway):
 
 > My research work is at the cross-section of patient engagement / experience, medicine (eg. biomarkers, pharmacogenomics, major depressive disorder) and non-interventional and interventional therapy (eg. rTMS), all in mental health. I am a regional, provincial and national research ambassador in Canada for patient-oriented research. My focus is on the one absolute, that is, that mental health is health. I also live, work and play on the un-ceded land of the Lek'wungen peoples and nation.
 
