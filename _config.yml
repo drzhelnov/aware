@@ -3,7 +3,7 @@ author: "Pavel Zhelnov"
 author_pronouns: "he/him"
 email: p.zhelnov@mail.utoronto.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  AWARE is a doctoral research project in progress at the University
+  AWARE is a research project in progress at the University
   of Toronto and the SPOR Evidence Alliance focused on reducing
   research waste in health and biomedical sciences.
 baseurl: "" # the subpath of your site, e.g. /blog

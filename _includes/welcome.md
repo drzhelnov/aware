@@ -4,6 +4,6 @@ AWARE is a scoping review of Avoidable WAste in REsearch and a tool in developme
 
 ## Contribute
 
-Help improve this doctoral research project at the University of Toronto and the SPOR Evidence Alliance. We will acknowledge all contributions in the final report.
+Help improve this research project at the University of Toronto and the SPOR Evidence Alliance. We will acknowledge all contributions in the final report.
 
 {{ site.cta_button }}

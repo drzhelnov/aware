@@ -1,9 +1,8 @@
-🎓 **This is a PhD in progress:**
+🎓 **This is research in progress:**
 
-* **Doctoral program** in Health Systems Research, with an emphasis in Organization and Management Studies and a Collaborative Specialization in Global Health,
-* **Undertaken** by [Pavel Zhelnov, MD](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/),
-* **Hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/about/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/about/about-sporea/),
-* **Supervised** by [Dr. Andrea Tricco](https://sporevidencealliance.ca/member/andrea-tricco/), and
+* **Led** by [Pavel Zhelnov, MD](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/), enrolled in a **doctoral program** in Health Systems Research, with an emphasis in Organization and Management Studies and a Collaborative Specialization in Global Health,
+* **Supervised** by [Dr. Andrea Tricco](https://sporevidencealliance.ca/member/andrea-tricco/),
+* **Hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/about/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/about/about-sporea/), and
 * **Funded** by the IHPME and from Dr. Tricco’s grants.
 
 📆 **Timeline:** September 2023 – December 2027.
