@@ -1,6 +1,6 @@
 ## Welcome
 
-AWARE is a scoping review of Avoidable WAste in REsearch and a tool in development to inform academics, clinicians, patient and public partners, policy-makers, journal editors, and funders on how to reduce research waste in health and biomedical sciences.
+AWARE is a scoping review of Avoiding WAste in health REsearch and a tool in development to inform academics, clinicians, patient and public partners, policy-makers, journal editors, and funders on how to reduce research waste in health and biomedical sciences.
 
 ## Contribute
 
