@@ -3,10 +3,10 @@
 * **Led** by [Pavel Zhelnov, MD](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/), enrolled in a **doctoral program** in Health Systems Research, with an emphasis in Organization and Management Studies and a Collaborative Specialization in Global Health,
 * **Supervised** by [Dr. Andrea Tricco](https://sporevidencealliance.ca/member/andrea-tricco/),
 * **Hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/about/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/about/about-sporea/), and
-* **Funded** by the IHPME and from Dr. Tricco’s grants.
+* **Funded** by the IHPME and from Dr. Tricco’s grants, and supported by the [Canadian Institutes of Health Research (CIHR)](https://cihr-irsc.gc.ca/).
 
 ### 📆 **Timeline**
-September 2023 – December 2027.
+September 2023 – September 2029.
 
 ### 📌 **Status**
 Protocol draft – Community feedback. [Read and comment on Google Docs.](https://docs.google.com/document/d/1kHBxe7XmJcfp8T32QxAjJqqPs_LRu4EIM4cpa_GWT7E/edit)
