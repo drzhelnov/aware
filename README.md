@@ -3,7 +3,10 @@
 * **Led** by [Pavel Zhelnov, MD](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/), enrolled in a **doctoral program** in Health Systems Research, with an emphasis in Organization and Management Studies and a Collaborative Specialization in Global Health,
 * **Supervised** by [Dr. Andrea Tricco](https://sporevidencealliance.ca/member/andrea-tricco/),
 * **Hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/about/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/about/about-sporea/), and
-* **Funded** by the IHPME and from Dr. Tricco’s grants, and supported by the [Canadian Institutes of Health Research (CIHR)](https://cihr-irsc.gc.ca/).
+* **Funded** by the IHPME and from Dr. Tricco’s grants, and supported by:
+  - CAD $1,500 from [SDGs@UofT](https://sdg.utoronto.ca/about/) through [Student Awards Program](https://sdg.utoronto.ca/research-themes/2024-student-awards-program-winners/)
+  - CAD $120,000 over 3 years from [Canadian Institutes of Health Research (CIHR)](https://cihr-irsc.gc.ca/) through [Canada Graduate Research Scholarship – Doctoral program (CGRS D)](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program)
+  - CAD $25,000 (**declined to receive CGRS D**) from [Unity Health Toronto](https://research.unityhealth.to/trainees/research-training-centre) through Unity Health PhD Angels Den Scholarship
 
 ### 📆 **Timeline**
 September 2023 – September 2029.
