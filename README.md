@@ -4,17 +4,6 @@
 * **Supervised** by [Dr. Andrea Tricco](https://sporevidencealliance.ca/member/andrea-tricco/), and
 * **Hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/about/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/about/about-sporea/).
 
-### **💸 Funding**
-This research is generously supported by a total of ~$164,000 U.S. dollars in Canadian public research money, of which ~$107,000 USD comes from competitive funding rounds, with 3 successful applications out of 15 (20.0%) over 4 fiscal years:
-
-1. CAD $1,500 from [SDGs@UofT](https://sdg.utoronto.ca/about/) through [Student Awards Program](https://sdg.utoronto.ca/research-themes/2024-student-awards-program-winners/);
-2. CAD $120,000 over 3 years from [Canadian Institutes of Health Research (CIHR)](https://cihr-irsc.gc.ca/) through [Canada Graduate Research Scholarship – Doctoral program (CGRS D)](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program);
-3. CAD $25,000 (**declined to hold CGRS D**) from [Unity Health Toronto](https://research.unityhealth.to/trainees/research-training-centre) through Unity Health PhD Angels Den Scholarship.
-
-CAD $78,000 over 3 years were provided from the IHPME and Dr. Tricco’s grants through the guaranteed [Student Funding Package](https://ihpme.utoronto.ca/finance-your-degree/funding-policy/).
-
-See AWARE’s [full funding history](https://docs.google.com/spreadsheets/d/1PYu8BbbAbwW0uIGRi5XR1p9i_I8ptFZritfFko38H-o/edit).
-
 ### 📆 **Timeline**
 September 2023 – September 2029.
 
@@ -46,3 +35,14 @@ AWARE cross-cuts all [pillars of health research](https://cihr-irsc.gc.ca/e/5314
 
 ### 👋 **Community**
 A [Google Doc](https://docs.google.com/document/d/1kHBxe7XmJcfp8T32QxAjJqqPs_LRu4EIM4cpa_GWT7E/edit) of the research proposal is open to public comment. If you would like to do a full peer review, there is a [discussion space](https://github.com/drzhelnov/aware/discussions/1) available to GitHub users, or feel free to [contact us](https://researchwaste.info/contact/). Links to open peer review platforms will be made available here on [researchwaste.info](https://researchwaste.info) once the preprint is published. Thank you very much for your interest!
+
+### **💸 Funding**
+This research is generously supported by a total of ~$164,000 U.S. dollars in Canadian public research money, of which ~$107,000 USD comes from competitive funding rounds, with 3 successful applications out of 15 (20.0%) over 4 fiscal years:
+
+1. CAD $1,500 from [SDGs@UofT](https://sdg.utoronto.ca/about/) through [Student Awards Program](https://sdg.utoronto.ca/research-themes/2024-student-awards-program-winners/);
+2. CAD $120,000 over 3 years from [Canadian Institutes of Health Research (CIHR)](https://cihr-irsc.gc.ca/) through [Canada Graduate Research Scholarship – Doctoral program (CGRS D)](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program);
+3. CAD $25,000 (**declined to hold CGRS D**) from [Unity Health Toronto](https://research.unityhealth.to/trainees/research-training-centre) through Unity Health PhD Angels Den Scholarship.
+
+CAD $78,000 over 3 years were provided from the IHPME and Dr. Tricco’s grants through the guaranteed [Student Funding Package](https://ihpme.utoronto.ca/finance-your-degree/funding-policy/).
+
+See AWARE’s [full funding history](https://docs.google.com/spreadsheets/d/1PYu8BbbAbwW0uIGRi5XR1p9i_I8ptFZritfFko38H-o/edit).
