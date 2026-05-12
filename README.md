@@ -1,7 +1,7 @@
 ### **🎓 This is research in progress**
 
 * **Led** by [Pavel Zhelnov, MD](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/), enrolled in a **doctoral program** in Health Systems Research, with an emphasis in Organization and Management Studies and a Collaborative Specialization in Global Health.
-* **Supervisor:** by [Dr. Andrea C. Tricco][andrea-tricco].
+* **Supervisor:** [Dr. Andrea Tricco][andrea-tricco].
 * **Dissertation Committee:**
 [Dr. Sharon Straus][sharon-straus] and
 [Dr. David Moher][david-moher].
