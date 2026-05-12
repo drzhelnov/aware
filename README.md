@@ -1,7 +1,10 @@
 ### **🎓 This is research in progress**
 
-* **Led** by [Pavel Zhelnov, MD](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/), enrolled in a **doctoral program** in Health Systems Research, with an emphasis in Organization and Management Studies and a Collaborative Specialization in Global Health,
-* **Supervised** by [Dr. Andrea Tricco](https://sporevidencealliance.ca/member/andrea-tricco/), and
+* **Led** by [Pavel Zhelnov, MD](https://ihpme.utoronto.ca/student-profile/zhelnov-pavel/), enrolled in a **doctoral program** in Health Systems Research, with an emphasis in Organization and Management Studies and a Collaborative Specialization in Global Health.
+* **Supervisor:** by [Dr. Andrea C. Tricco][andrea-tricco].
+* **Dissertation Committee:**
+[Dr. Sharon Straus][sharon-straus] and
+[Dr. David Moher][david-moher].
 * **Hosted** by the University of Toronto ([IHPME](https://ihpme.utoronto.ca/about/)), Unity Health Toronto ([Knowledge Translation Program](https://knowledgetranslation.net/)), and the [SPOR Evidence Alliance](https://sporevidencealliance.ca/about/about-sporea/).
 
 ### 📆 **Timeline**
@@ -46,3 +49,7 @@ This research is generously supported by a total of ~$164,000 U.S. dollars in Ca
 CAD $78,000 over 3 years were provided from the IHPME and Dr. Tricco’s grants through the guaranteed [Student Funding Package](https://ihpme.utoronto.ca/finance-your-degree/funding-policy/).
 
 See AWARE’s [full funding history](https://docs.google.com/spreadsheets/d/1PYu8BbbAbwW0uIGRi5XR1p9i_I8ptFZritfFko38H-o/edit).
+
+[andrea-tricco]: https://www.google.com/search?kgmid=/g/11fmgylghj
+[sharon-straus]: https://www.google.com/search?kgmid=/g/11g0lgxhsv
+[david-moher]: https://www.google.com/search?kgmid=/g/11g_x8jx1f
