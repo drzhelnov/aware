@@ -48,7 +48,7 @@ This research is generously supported by a total of ~$164,000 U.S. dollars in Ca
 
 CAD $78,000 over 3 years were provided from the IHPME and Dr. Tricco’s grants through the guaranteed [Student Funding Package](https://ihpme.utoronto.ca/finance-your-degree/funding-policy/).
 
-See AWARE’s [full funding history](https://docs.google.com/spreadsheets/d/1PYu8BbbAbwW0uIGRi5XR1p9i_I8ptFZritfFko38H-o/edit).
+See AWARE’s [full competitive funding history](https://docs.google.com/spreadsheets/d/1PYu8BbbAbwW0uIGRi5XR1p9i_I8ptFZritfFko38H-o/edit).
 
 [andrea-tricco]: https://www.google.com/search?kgmid=/g/11fmgylghj
 [sharon-straus]: https://www.google.com/search?kgmid=/g/11g0lgxhsv
